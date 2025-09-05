@@ -17,6 +17,7 @@ Lassen Sie sich bei Punkt 3 ggf. von Perplexity / ChatGPT etc. unterstützen.
 
 - Benutzer gibt eine ganze Zahl ein
 - Ermitteln Sie, ob diese Zahl gerade oder ungerade ist
+- Verwenden Sie dafür den Modulo-Operator
 - Je nach Ergebnis geben Sie in die Console aus:
 - *Diese Zahl ist gerade / ungerade*
 
